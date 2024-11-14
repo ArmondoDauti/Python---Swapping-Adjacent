@@ -1,4 +1,4 @@
-# Python---Swapping-Adjacents
+# Python - Swapping-Adjacents
 
 The problem statement for this project is:
 Given a sequence of numbers, swap adjacent items in pairs, i.e., the first number with the second number, the third number with the forth number, etc. Print the resulting sequence. If the sequence has an odd number of elements, leave the last element in place.
